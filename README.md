@@ -122,12 +122,18 @@ SIAkad/
 
 <div align="center">
 
-| | |
-|---|---|
-| **Nama** | Azim Saqyal Huda |
-| **Mata Kuliah** | Pemrograman Web |
-| **Universitas** | UPN Veteran Jawa Timur |
-| **GitHub** | [@azimzida](https://github.com/azimzida) |
+### azimzida
+[![GitHub](https://img.shields.io/badge/GITHUB-AZIMZIDA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azimzida)
+
+<br>
+
+### fawwaz1024
+[![GitHub](https://img.shields.io/badge/GITHUB-FAWWAZ1024-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fawwaz1024)
+
+<br>
+
+### melindacitra09
+[![GitHub](https://img.shields.io/badge/GITHUB-MELINDACITRA09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/melindacitra09)
 
 </div>
 
